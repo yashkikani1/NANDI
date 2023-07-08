@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831590150562",
+    "project_id": "nandi-e4f6b",
+    "storage_bucket": "nandi-e4f6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831590150562:android:4e1ace1926d54b0164c2fb",
+        "android_client_info": {
+          "package_name": "com.example.nandi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831590150562-4nveh0bvo03eoj6991j5p780e0llqvkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQdDcwEWxYnTtCRyhGBlhE0NSlDrNRarg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831590150562-4nveh0bvo03eoj6991j5p780e0llqvkc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
